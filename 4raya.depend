@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1416473912 source:c:\users\diego\documents\ingenieria computadores\tp\4raya\funciones.c
+	<stdio.h>
+	"cabecera.h"
+
+1416472166 c:\users\diego\documents\ingenieria computadores\tp\4raya\cabecera.h
+
+1416301106 source:c:\users\diego\documents\ingenieria computadores\tp\4raya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecera.h"
+
+1416303630 source:h:\4raya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecera.h"
+
+1416300880 h:\4raya\cabecera.h
+
+1416302716 source:h:\4raya\funciones.c
+	<stdio.h>
+	"cabecera.h"
+
+1416473912 source:c:\users\diego\desktop\4raya\funciones.c
+	<stdio.h>
+	"cabecera.h"
+
+1416472166 c:\users\diego\desktop\4raya\cabecera.h
+
+1416473763 source:c:\users\diego\desktop\4raya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecera.h"
+
